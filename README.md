@@ -1,4 +1,4 @@
-#Pokedex App
+# Pokedex App
 
 Hi! Are you ready for a fantastic adventure?
 This world is full of creatures called Pokémon. They are friendly playmates and cooperative
@@ -10,7 +10,7 @@ should be displayed on the screen in the form of a list, you should be able to l
 as you wish and interact with existing elements. Your solution should be sent to us as a link
 to Github.
 
-####UI Preview:
+#### UI Preview:
 
 - List with initial 20 Pokémons, containing basic information like: `name`, `type` and
   `sprite`.
@@ -19,11 +19,11 @@ to Github.
   its: `weight` and `height`.
 - UI doesn’t have to be perfect, just nice and minimalistic.
 - 
-####Core technology stack:
+#### Core technology stack:
 
 - React
 
-####Good to have:
+#### Good to have:
 
 - Typescript
 - Redux or other state management tools.
@@ -31,7 +31,7 @@ to Github.
 - Extra filters section, allowing to filter Pokémon by `name` and `type`.
 - Dark and light theme.
 
-####Example work preview:
+#### Example work preview:
 
 - Read Pokémon API documentation
 - Configure environment and dependencies
